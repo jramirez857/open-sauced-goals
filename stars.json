@@ -7,26 +7,26 @@
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 4768,
-    "open_issues_count": 44,
-    "forks_count": 518
+    "stargazers_count": 4779,
+    "open_issues_count": 46,
+    "forks_count": 520
   },
   {
     "full_name": "knadh/listmonk",
-    "stargazers_count": 7345,
-    "open_issues_count": 49,
-    "forks_count": 525
+    "stargazers_count": 7363,
+    "open_issues_count": 52,
+    "forks_count": 528
   },
   {
     "full_name": "pre-commit/pre-commit",
-    "stargazers_count": 7165,
-    "open_issues_count": 23,
-    "forks_count": 534
+    "stargazers_count": 7180,
+    "open_issues_count": 22,
+    "forks_count": 537
   },
   {
     "full_name": "sourcery-ai/sourcery",
     "stargazers_count": 683,
-    "open_issues_count": 29,
+    "open_issues_count": 31,
     "forks_count": 29
   },
   {
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "pyenv-win/pyenv-win",
-    "stargazers_count": 1245,
-    "open_issues_count": 84,
-    "forks_count": 157
+    "stargazers_count": 1249,
+    "open_issues_count": 85,
+    "forks_count": 158
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 17016,
-    "open_issues_count": 86,
-    "forks_count": 1112
+    "stargazers_count": 17027,
+    "open_issues_count": 88,
+    "forks_count": 1114
   },
   {
     "full_name": "mdn/content",
-    "stargazers_count": 3946,
-    "open_issues_count": 656,
-    "forks_count": 5443
+    "stargazers_count": 3968,
+    "open_issues_count": 666,
+    "forks_count": 5509
   },
   {
     "full_name": "mazipan/hello-open-source",
     "stargazers_count": 374,
     "open_issues_count": 5,
-    "forks_count": 382
+    "forks_count": 386
   },
   {
     "full_name": "jramirez857/email-cleaner",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 5420,
-    "open_issues_count": 119,
-    "forks_count": 208
+    "stargazers_count": 5447,
+    "open_issues_count": 122,
+    "forks_count": 210
   },
   {
     "full_name": "zawad2221/Twitter-Django-Bot",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "asottile/pyupgrade",
-    "stargazers_count": 1331,
+    "stargazers_count": 1337,
     "open_issues_count": 10,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 61575,
-    "open_issues_count": 177,
-    "forks_count": 26293
+    "stargazers_count": 61637,
+    "open_issues_count": 172,
+    "forks_count": 26318
   },
   {
     "full_name": "peaceiris/actions-gh-pages",
-    "stargazers_count": 2634,
+    "stargazers_count": 2643,
     "open_issues_count": 38,
     "forks_count": 194
   },
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 31995,
-    "open_issues_count": 38,
-    "forks_count": 1042
+    "stargazers_count": 32058,
+    "open_issues_count": 32,
+    "forks_count": 1045
   },
   {
     "full_name": "pypa/pip",
-    "stargazers_count": 7643,
-    "open_issues_count": 959,
-    "forks_count": 2499
+    "stargazers_count": 7650,
+    "open_issues_count": 960,
+    "forks_count": 2501
   },
   {
     "full_name": "quantifiedcode/python-anti-patterns",
@@ -133,49 +133,49 @@
   },
   {
     "full_name": "cmderdev/cmder",
-    "stargazers_count": 23180,
+    "stargazers_count": 23187,
     "open_issues_count": 23,
-    "forks_count": 1905
+    "forks_count": 1906
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 29949,
+    "stargazers_count": 29963,
     "open_issues_count": 14,
-    "forks_count": 6118
+    "forks_count": 6120
   },
   {
     "full_name": "justmedude/pylotoncycle",
     "stargazers_count": 24,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "GamestonkTerminal/GamestonkTerminal",
-    "stargazers_count": 8831,
-    "open_issues_count": 29,
-    "forks_count": 984
+    "stargazers_count": 8840,
+    "open_issues_count": 34,
+    "forks_count": 986
   },
   {
     "full_name": "dwisiswant0/apkleaks",
-    "stargazers_count": 2726,
-    "open_issues_count": 7,
-    "forks_count": 295
+    "stargazers_count": 2731,
+    "open_issues_count": 6,
+    "forks_count": 296
   },
   {
     "full_name": "arrow-py/arrow",
-    "stargazers_count": 7700,
+    "stargazers_count": 7703,
     "open_issues_count": 64,
     "forks_count": 609
   },
   {
     "full_name": "iam-abbas/Reddit-Stock-Trends",
-    "stargazers_count": 1480,
+    "stargazers_count": 1479,
     "open_issues_count": 17,
     "forks_count": 205
   },
   {
     "full_name": "openmainframeproject/cobol-programming-course",
-    "stargazers_count": 1975,
+    "stargazers_count": 1981,
     "open_issues_count": 9,
     "forks_count": 456
   }
